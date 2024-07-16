@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4512948e-f211-49da-8402-788e07ae1b18)
+
 <h1 align="center">Hi 👋, I'm Anish Vernekar</h1>
 <h3 align="center">A passionate cybersecurity enthusiast and a software engineer from India</h3>
 
